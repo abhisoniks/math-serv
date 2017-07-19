@@ -18,7 +18,7 @@ public class Maths {
     /**
      * @param args the command line arguments
      */
-    public static void main(String... args) throws Exception{
+    public static void main(String... param) throws Exception{
         
         File fin = new File("/Users/abhishekkumar/NetBeansProjects/maths/src/files/input/tc1");
         FileInputStream fis = new FileInputStream(fin);
